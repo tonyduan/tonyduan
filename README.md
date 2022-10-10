@@ -1,1 +1,1 @@
-- Hi, I'm Tony. I'm interested in probabilistic machine learning and computer vision.
+- I'm currently at Tesla. I'm interested in probabilistic machine learning and computer vision.
